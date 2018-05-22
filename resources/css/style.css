@@ -1,0 +1,26 @@
+/* Universal selectors */
+body {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+}
+
+.nav {
+  position: fixed;
+  border-bottom: 1px solid seashell;
+  height: 69px;
+  width: 1400px;
+}
+
+.nav .logo {
+  height: 50px;
+  padding-left: 10px;
+  margin-left: auto;
+}
+.nav li{
+  display: inline-block;
+  text-decoration: underline;
+  float: right;
+}
