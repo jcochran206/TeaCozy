@@ -104,14 +104,19 @@ header {
   text-align: center;
   margin: auto;
 }
+.column.medium .Locations {
+  text-align: center;
+  margin: auto;
+}
 
-.places{
+.places {
   display: inline-block;
   height: 300px;
   width: 300px;
-  background-color: blue;
+  background-color: black;
   text-align: center;
   margin: auto;
+  opacity: 1;
 }
 /*.Mission {
   background-image: url(../img/img-mission-background.jpg);
