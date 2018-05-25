@@ -108,14 +108,26 @@ header {
 .tea.gallery {
   width: 1000px;
   text-align: center;
-  margin: auto 10px;
+  margin: auto;
 }
 
-.tea-image img{
-  justify-content: space-around;
+.image-container {
+  margin: auto 10px;
+  width: 1000px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+
+}
+
+.tea-image img {
   height: 200px;
   width: 300px;
   margin: auto;
+
 }
 
 
@@ -143,6 +155,7 @@ footer{
   text-align: left;
   padding-left: 20px;
 }
+
 /*.Mission {
   background-image: url(../img/img-mission-background.jpg);
   background-position: center;
