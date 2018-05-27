@@ -3,6 +3,8 @@ Tea cozy is a demo site for a tea store.  It is a single page website that allow
 ## install requirements
 - download or clone github
 - open in preferred browser
+## known bugs
+- project still in progress
 ## requirements
 - just will need local files browser of choice to view page
 - text editor of choice to make changes
