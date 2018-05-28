@@ -12,3 +12,7 @@ Tea cozy is a demo site for a tea store.  It is a single page website that allow
 version 1.0 
 ## Author
 ### Jonathan Cochran
+## updates
+* [] responsive design
+* [] add favicon
+* [] add links to nav
