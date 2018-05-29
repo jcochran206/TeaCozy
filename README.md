@@ -14,5 +14,5 @@ version 1.0
 ### Jonathan Cochran
 ## updates
 - [] responsive design
-- [] add favicon
+- [x] add favicon
 - [] add links to nav
