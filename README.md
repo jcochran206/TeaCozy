@@ -15,4 +15,4 @@ version 1.0
 ## updates
 - [] responsive design
 - [x] add favicon
-- [] add links to nav
+- [x] add links to nav
